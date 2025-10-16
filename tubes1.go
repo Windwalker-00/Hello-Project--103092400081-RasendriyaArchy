@@ -4,6 +4,8 @@ import (
 	"fmt"
 )
 
+// Tubes 1 Tambahan untuk latihan repository menggunakan Github
+
 type Item struct {
 	ID    int
 	Name  string
